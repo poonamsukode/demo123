@@ -1,0 +1,13 @@
+package Basic;
+
+public class datatype {
+
+	public static void main(String[] args) {
+		
+	    Long age = 5000000000;
+	   
+		System.out.println(age);
+
+	}
+
+}

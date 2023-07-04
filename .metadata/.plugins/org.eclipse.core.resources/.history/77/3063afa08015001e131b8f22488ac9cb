@@ -1,0 +1,30 @@
+package Basic;
+
+public class datatype {
+
+	public static void main(String[] args) {
+
+		// Long age = 5000000000L;
+		// float age = 33.33f;
+		// double age = 33.33;
+
+		// System.out.println(age);
+
+		// char ch = 'A' ;
+		// char ch = 'aa' ; // error bcz only one char value allowed.
+		char ch = '1';
+
+		System.out.println(ch); // in char datatype only one charachter data type store
+
+		String name = "my name is poonam";
+		System.out.println(name);
+
+		boolean b = true;
+		System.out.println();
+
+		int a = 10;
+		int A = 10;
+		System.out.println("a : " + a);
+		System.out.println("A : " + A);
+	}
+}

@@ -1,0 +1,13 @@
+package Basic;
+
+public class datatype {
+
+	public static void main(String[] args) {
+		
+	    byte age = 50;
+	    int ageee= 50;
+		System.out.println(age,agee);
+
+	}
+
+}

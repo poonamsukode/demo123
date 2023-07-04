@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;DemoProjectLoginPage&apos; to &apos;LoginPageMaven&apos;" description="Rename resource &apos;DemoProjectLoginPage&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/DemoProjectLoginPage" name="LoginPageMaven" stamp="1688182114245" updateReferences="true"/>
+</session>

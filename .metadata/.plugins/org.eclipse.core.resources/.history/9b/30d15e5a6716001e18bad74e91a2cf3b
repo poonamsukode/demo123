@@ -1,0 +1,32 @@
+package com.tka.arraylist;
+
+public class permempl extends Tempemp {
+
+	int sal;
+	
+	public permempl() {
+		super();
+		// TODO Auto-generated constructor stub
+	}
+
+	public permempl(int eid, String enm,int sal) {
+		super(eid, enm, sal);
+		this.sal = sal;
+
+	}
+
+	public int getSal() {
+		return sal;
+	}
+
+	public void setSal(int sal) {
+		this.sal = sal;
+	}
+
+	@Override
+	public String toString() {
+		return "permempl [sal=\" + sal + \", eid=\" + eid + \", enm=\" + enm + \"]";
+	}
+
+	
+}

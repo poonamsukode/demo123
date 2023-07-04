@@ -1,0 +1,14 @@
+package Basic;
+
+public class datatype {
+
+	public static void main(String[] args) {
+		
+	    //Long age = 5000000000L;
+	    float age = 33.33f;
+	   
+		System.out.println(age);
+
+	}
+
+}

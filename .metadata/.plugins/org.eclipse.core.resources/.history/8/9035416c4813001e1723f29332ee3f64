@@ -1,0 +1,17 @@
+package com.tka.basic;
+
+public class DemoCoreJava {
+	
+	public int a;
+	
+	public DemoCoreJava() {
+		System.out.println("no arg const....");
+	}
+	
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

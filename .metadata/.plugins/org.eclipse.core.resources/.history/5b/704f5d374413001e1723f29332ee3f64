@@ -1,0 +1,13 @@
+package com.tka.basic;
+
+public class DemoCoreJava {
+	
+	public int a;
+	
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
